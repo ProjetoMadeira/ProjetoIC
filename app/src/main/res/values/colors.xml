@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorOuroboros">#0013a2</color>
+    <color name="colorOuroborosDark">#001091</color>
+    <color name="colorOuroborosDarker">#0c157c</color>
+    <color name="colorOuroborosDarkest">#0c1560</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorOuroborosLight">#00a6f9</color>
+</resources>
+

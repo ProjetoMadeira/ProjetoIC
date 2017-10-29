@@ -1,0 +1,19 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.NoActionBar">
+        <!-- Customize your theme here. -->
+
+        <item name="colorPrimary">@color/colorOuroboros</item>
+        <item name="colorPrimaryDark">@color/colorOuroborosDark</item>
+        <item name="colorAccent">@color/colorOuroboros</item>
+        <item name="android:itemBackground">@android:color/white</item>
+    </style>
+
+    <style name="botaoPadrao" parent="Theme.AppCompat.Light" >
+        <item name="colorButtonNormal">@color/colorOuroborosDarker</item>
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+</resources>
+

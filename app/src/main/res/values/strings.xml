@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">Ouroboros</string>
+    <string name="third_activity_title">Criadores</string>
+    <string name="fourth_activity_title">Avaliação</string>
+    <string name="fifth_activity_title">Lista de Usuários</string>
+    <string name="main_activity_title">Sair</string>
+
+</resources>

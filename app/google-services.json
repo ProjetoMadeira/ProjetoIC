@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "545507403015",
+    "firebase_url": "https://projetomadeira-c0b44.firebaseio.com",
+    "project_id": "projetomadeira-c0b44",
+    "storage_bucket": "projetomadeira-c0b44.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545507403015:android:78007f8b97535fc9",
+        "android_client_info": {
+          "package_name": "com.ufsj.madeira.projetoic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "545507403015-lr0lbnfefluknig0or2ssilfag6jcl3c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ufsj.madeira.projetoic",
+            "certificate_hash": "1611b899e7d4a8ebab9700c1fda9137cf759631b"
+          }
+        },
+        {
+          "client_id": "545507403015-k3jun1iuorti0esm5be48hjg5v62c3pn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7oVL9AL9B_h2kAw-s0lYDffTU2BLqIi4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "545507403015-k3jun1iuorti0esm5be48hjg5v62c3pn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
